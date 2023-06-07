@@ -1,0 +1,20 @@
+li{
+    font-size:large;
+  }
+  strong{
+    color:black
+  }
+  h1{
+    font-style: oblique;
+  }
+  body{
+    background-color: yellow;
+  }
+  ol{
+    font-style: oblique;
+    color:blueviolet
+  }
+  ul{
+    font-style: italic;
+    color:crimson
+  }
